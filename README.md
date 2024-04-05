@@ -1,36 +1,47 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Login Page
+Product Listing Page
+Product Detail Page 
+Shopping Cart
 
-## Getting Started
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Dear Kunjan Choudhary,
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+We are excited to extend to you the opportunity to participate in our latest project assessment. This assessment is designed to showcase your skills in web development, specifically focusing on React, Next.js, Redux, Material-UI, and Axios. Below, you will find a detailed outline of the project requirements and objectives.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Project Overview:
+You will be developing a small e-commerce platform with the following features:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+User Authentication System: A login and logout functionality, with authentication status managed globally using Redux.
+Product Listing and Detail Pages: Display products fetched from a mock API on the main page, with detailed pages for each product.
+Shopping Cart: A feature allowing users to add and remove products, managed globally with Redux and accessible throughout the site.
+Responsive Design: Utilize Material-UI components to ensure the application is responsive and provides a seamless user experience on both desktop and mobile devices.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+Objectives:
+Demonstrate proficiency in using React hooks and Next.js.
+Implement state management effectively with Redux.
+Create a user-friendly interface with Material-UI.
+Handle API requests using Axios, with mocked API responses for development.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Requirements:
+The project must be initialized with Next.js and include all specified functionalities.
+Your code should be well-organized and hosted on a public GitHub repository.
+The application should be deployed and accessible online, with a link provided in your submission.
+Include detailed instructions in the repository's README for setting up and running the project locally.
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Submission Instructions:
+Please submit your project by 7 days. Your submission should include:
+A link to the GitHub repository.
+A link to the live application.
+Any additional notes or documentation you wish to provide in the README.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+Evaluation Criteria:
+Your project will be evaluated based on code quality, implementation of the specified functionalities, design and usability of the UI, and creativity in feature implementation and problem-solving.
+We are looking forward to seeing your innovative approaches and solutions to this project. This is an excellent opportunity to demonstrate your skills and potential as a developer. Should you have any questions or need further clarification, please do not hesitate to contact us.
+
+Best regards,
+Engin Yilmaz, Product Owner at Smart Marine Teknoloji Anonim Sirketi
